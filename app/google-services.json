@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "717675970726",
+    "firebase_url": "https://pingpinge-2425d-default-rtdb.firebaseio.com",
+    "project_id": "pingpinge-2425d",
+    "storage_bucket": "pingpinge-2425d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717675970726:android:95aad1fc5dc692a2247467",
+        "android_client_info": {
+          "package_name": "com.example.pingpinge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717675970726-1bpsenfo1jnajgo3tjp96b8bqsftebr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_L20U0WpyMb8Yrb5iNFp6Koo3cjdEBt0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717675970726-1bpsenfo1jnajgo3tjp96b8bqsftebr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
